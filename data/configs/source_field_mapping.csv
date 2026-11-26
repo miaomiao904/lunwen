@@ -1,0 +1,22 @@
+﻿target_field,actual_source_header,mapping_status,action,notes
+event_id,event_id,identity,preserve,Existing field retained; no semantic duplicate added.
+doc_id,doc_id,identity,preserve,Existing field retained; no semantic duplicate added.
+title,title,identity,preserve,Existing field retained; no semantic duplicate added.
+source_agency,source_agency,identity,preserve,Existing field retained; no semantic duplicate added.
+publish_date,publish_date,identity,preserve,Existing field retained; no semantic duplicate added.
+publish_time,publish_time,identity,preserve,Existing field retained; no semantic duplicate added.
+document_date,document_date,identity,preserve,Existing field retained; no semantic duplicate added.
+stage,stage,identity,preserve,Existing field retained; no semantic duplicate added.
+url,url,identity,preserve,Existing field retained; no semantic duplicate added.
+local_path,local_path,identity,preserve,Existing field retained; no semantic duplicate added.
+raw_file_path,raw_file_path,identity,preserve,Existing field retained; no semantic duplicate added.
+text_file_path,text_file_path,identity,preserve,Existing field retained; no semantic duplicate added.
+event_date,event_date,identity,preserve,Existing field retained; no semantic duplicate added.
+retrieval_date,retrieval_date,identity,preserve,Existing field retained; no semantic duplicate added.
+document_type,document_type,identity,preserve,Existing field retained; no semantic duplicate added.
+included_in_dataset,included_in_dataset,identity,preserve,Existing field retained; no semantic duplicate added.
+source_type,source_type,identity,preserve,Existing field retained; no semantic duplicate added.
+verification_status,verification_status,identity,preserve,Existing field retained; no semantic duplicate added.
+notes,notes,identity,preserve,Existing field retained; no semantic duplicate added.
+stage,stage,unmapped_existing_value,preserve; do not overwrite,Existing value 'final_news' occurs 2 time(s); candidate: final (candidate only). Confirm against publication context.
+stage,stage,unmapped_existing_value,preserve; do not overwrite,Existing value 'rectification' occurs 1 time(s); candidate: follow_up (candidate only). Confirm against publication context.
