@@ -1,9 +1,0 @@
-{
-  "schema_version": "1.0",
-  "strategy": null,
-  "random_seed": null,
-  "data_version": null,
-  "split_time": null,
-  "splits_file": "data/splits/splits.csv",
-  "notes": "Manifest reserved for future split configuration. No actual split assignments have been created."
-}
